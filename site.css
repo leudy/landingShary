@@ -147,6 +147,10 @@ ul {
     text-align: center;
 }
 
+a:hover {
+    COLOR: #f5c42f;
+}
+
 /* Mobile */
 @media (max-width: 700px) {
 
